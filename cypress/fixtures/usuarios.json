@@ -1,0 +1,22 @@
+[  
+    {
+        "email": "giovanni.tavares@geradornv.com.br",
+        "fullName": "Giovanni Monteiro Tavares",
+        "userName": "giovanni",
+        "password": "giovanni"
+    },
+
+    {
+        "email": "enrico.nobrega@geradornv.com.br",
+        "fullName": "Enrico Jales Nobrega",
+        "userName": "enrico",
+        "password": "enrico12"
+    },
+
+    {
+        "email": "maria.souza@geradornv.com.br",
+        "fullName": "Maria Aline Abreu de Souza",
+        "userName": "maria",
+        "password": "maria123"
+    }
+]
