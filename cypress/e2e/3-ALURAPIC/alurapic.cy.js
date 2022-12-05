@@ -3,11 +3,8 @@ const { it } = require("mocha");
 describe('Testes página incial', () => {
 
     beforeEach(() => {
-        cy.visit('https://alura-fotos.herokuapp.com')
+        cy.visit('https://alura-fotos.herokuapp.com/#/home')
     })
-
- 
-
 
     it('verifica mensagens senha menor que 8 caracteres', () =>  {
         cy.contains('a', 'Register now').click();
