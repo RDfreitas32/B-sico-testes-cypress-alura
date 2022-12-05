@@ -5,3 +5,4 @@ Cypress.Commands.add('login', (nome, senha) => {
     cy.get('button[type="submit"]').click();
 
 })
+
